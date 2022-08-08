@@ -30,6 +30,7 @@ An application that includes login and register pages; and after these authentic
 - PostgreSQL
 - jsonwebtoken
 - pg as PostgreSQL client 
+- React-Toast
 
 ### Prerequisites
 
